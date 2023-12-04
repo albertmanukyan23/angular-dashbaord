@@ -13,6 +13,7 @@ export class SubscribersComponent {
     subService.loadData().subscribe(value => {
       this.subscribers = value;
     })
+
   }
 
   onDelete(id: string) {
