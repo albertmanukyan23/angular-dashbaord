@@ -1,0 +1,8 @@
+.btn-theme-categories {
+  height: 58px;
+  border: none;
+  font-size: 13px;
+  background-color: var(--primary-color);
+  padding: 0 10px;
+  color: white;
+}
